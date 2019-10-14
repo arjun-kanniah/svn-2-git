@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # define variables
-SVN_USER=n067889
-SVN_PASS=Summer2
+SVN_USER=<username>
+SVN_PASS=<password>
 
 # convert subversion repos to git repos
 while read URL; do
